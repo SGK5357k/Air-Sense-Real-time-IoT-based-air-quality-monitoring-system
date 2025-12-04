@@ -1,13 +1,7 @@
 ESP8266 NodeMCU development board (WiFi-enabled microcontroller)​
-
 MQ135 gas sensor (air quality / harmful gases)​
-
 DHT11 temperature and humidity sensor​
-
 I2C LCD module 
-
 USB cable for programming ESP8266
-
 Breadboard and male‑to‑male jumper wires
-
 5V power supply or USB power bank
